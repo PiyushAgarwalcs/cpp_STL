@@ -1,8 +1,6 @@
-# 🚀 C++ & STL — Complete Syntax Reference for LeetCode & Interviews
+# 🚀 C++ & STL — Complete Syntax Reference 
 
-> **Assumption:** `using namespace std;` is always present. No OOP. No Threads.
-> **Purpose:** Rapid syntax revision before coding rounds.
-
+> **Assumption:** No OOP. No Threads.
 ---
 
 ## 📋 TABLE OF CONTENTS
