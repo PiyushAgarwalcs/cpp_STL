@@ -94,6 +94,7 @@ g++ -std=c++17 main.cpp -o main # Use C++17 standard
 ---
 
 ## 2. Data Types & Limits
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/aecd2561-f559-446b-bc3f-2f5826b493e3" />
 
 ```cpp
 #include <climits>     // INT_MAX, INT_MIN, etc.
@@ -771,6 +772,7 @@ STL
 | **Associative** | `set`, `multiset`, `map`, `multimap` | Red-Black Tree | sorted by key |
 | **Unordered Assoc.** | `unordered_set`, `unordered_multiset`, `unordered_map`, `unordered_multimap` | Hash Table | no order |
 | **Adapters** | `stack`, `queue`, `priority_queue` | wraps deque/vector | — |
+<img width="800" height="1000" alt="image" src="https://github.com/user-attachments/assets/e5b70e0c-2500-4dfa-b6c4-93fabd58b65b" />
 
 ---
 
